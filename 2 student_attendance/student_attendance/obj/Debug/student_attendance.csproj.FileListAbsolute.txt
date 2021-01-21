@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\student_attendance\student_attendance\bin\Debug\student_attendance.exe.config
+F:\Visual Studio Projects\student_attendance\student_attendance\bin\Debug\student_attendance.exe
+F:\Visual Studio Projects\student_attendance\student_attendance\bin\Debug\student_attendance.pdb
+F:\Visual Studio Projects\student_attendance\student_attendance\obj\Debug\student_attendance.csprojAssemblyReference.cache
+F:\Visual Studio Projects\student_attendance\student_attendance\obj\Debug\student_attendance.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\student_attendance\student_attendance\obj\Debug\student_attendance.exe
+F:\Visual Studio Projects\student_attendance\student_attendance\obj\Debug\student_attendance.pdb
+C:\Users\Aleksandar Petkovski\Desktop\student_attendance\student_attendance\bin\Debug\student_attendance.exe.config
+C:\Users\Aleksandar Petkovski\Desktop\student_attendance\student_attendance\bin\Debug\student_attendance.exe
+C:\Users\Aleksandar Petkovski\Desktop\student_attendance\student_attendance\bin\Debug\student_attendance.pdb
+C:\Users\Aleksandar Petkovski\Desktop\student_attendance\student_attendance\obj\Debug\student_attendance.csprojAssemblyReference.cache
+C:\Users\Aleksandar Petkovski\Desktop\student_attendance\student_attendance\obj\Debug\student_attendance.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Petkovski\Desktop\student_attendance\student_attendance\obj\Debug\student_attendance.exe
+C:\Users\Aleksandar Petkovski\Desktop\student_attendance\student_attendance\obj\Debug\student_attendance.pdb

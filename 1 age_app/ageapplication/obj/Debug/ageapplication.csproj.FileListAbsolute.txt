@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\ageapplication\ageapplication\bin\Debug\ageapplication.exe.config
+F:\Visual Studio Projects\ageapplication\ageapplication\bin\Debug\ageapplication.exe
+F:\Visual Studio Projects\ageapplication\ageapplication\bin\Debug\ageapplication.pdb
+F:\Visual Studio Projects\ageapplication\ageapplication\obj\Debug\ageapplication.csprojAssemblyReference.cache
+F:\Visual Studio Projects\ageapplication\ageapplication\obj\Debug\ageapplication.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\ageapplication\ageapplication\obj\Debug\ageapplication.exe
+F:\Visual Studio Projects\ageapplication\ageapplication\obj\Debug\ageapplication.pdb
+C:\Users\Aleksandar Petkovski\Desktop\age_app\ageapplication\bin\Debug\ageapplication.exe.config
+C:\Users\Aleksandar Petkovski\Desktop\age_app\ageapplication\bin\Debug\ageapplication.exe
+C:\Users\Aleksandar Petkovski\Desktop\age_app\ageapplication\bin\Debug\ageapplication.pdb
+C:\Users\Aleksandar Petkovski\Desktop\age_app\ageapplication\obj\Debug\ageapplication.csprojAssemblyReference.cache
+C:\Users\Aleksandar Petkovski\Desktop\age_app\ageapplication\obj\Debug\ageapplication.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Petkovski\Desktop\age_app\ageapplication\obj\Debug\ageapplication.exe
+C:\Users\Aleksandar Petkovski\Desktop\age_app\ageapplication\obj\Debug\ageapplication.pdb
